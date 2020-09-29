@@ -596,9 +596,9 @@ dependencies = [
 
 [[package]]
 name = "swc_common"
-version = "0.10.2"
+version = "0.10.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "fa33a5aa723f9d05726690d9a7c6e5545f1635660d272847c11e57aaaefd2299"
+checksum = "4f47e6a3f5701ea126cf5022e931be682dd87ab1bcbb53de3d49689c4c3a1692"
 dependencies = [
  "ast_node",
  "cfg-if",
